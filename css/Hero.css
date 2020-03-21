@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    line-height: 40px;
+
+}
+
+header{
+    background: #3A3A3A ;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+
+}
+h2{
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 40px; color: #0A828F ;
+    margin: 40px 0 10px;
+}
+
+header h1{
+    color: white;
+   
+}
+
+header img{
+    border-radius: 150px;
+    width: 190px;
+    border: 3px solid white   ;
+}
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px 30px 20px;
+}
+main img{
+    max-width: 100%;
+}
+
+a{
+    color: #0A828F;
+}
+a:hover{color:greenyellow}
+
+footer{
+    font-size: 15px;color: white;
+    padding: 30px 10px 15px 0px;
+    text-align: right;
+    background: #3A3A3A;
+}
+p.caption{color:#7a8182;
+    font-size: 20px;
+    font-style: italic;
+    margin-top: 0;}
